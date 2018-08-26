@@ -1,0 +1,1 @@
+https://docs.microsoft.com/en-us/visualstudio/extensibility/how-to-use-wizards-with-project-templates?view=vs-2017#create-a-project-template-project-with-a-vsix-project

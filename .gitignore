@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs/VIsx.MyProjectTemplateAndCustomWizard.Demo/v15/Server/sqlite3
+/MyProjectWizard/bin/Debug
+/MyProjectWizard/obj/Debug
